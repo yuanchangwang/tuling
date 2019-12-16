@@ -1,0 +1,39 @@
+{'img_name': '世界杯', 'location': '首页-桌面大全-体育壁纸-世界杯', 'img_url': 'https://www.ivsky.com/bizhi/fifa_world_cup_germany_t1634/'}
+{'img_name': '体育', 'location': '首页-桌面大全-体育壁纸-体育', 'img_url': 'https://www.ivsky.com/bizhi/tiyu_t1932/'}
+{'img_name': '巴西', 'location': '首页-桌面大全-体育壁纸-巴西', 'img_url': 'https://www.ivsky.com/bizhi/baxi_t11396/'}
+{'img_name': '队徽', 'location': '首页-桌面大全-体育壁纸-队徽', 'img_url': 'https://www.ivsky.com/bizhi/duihui_t16603/'}
+{'img_name': '赛季', 'location': '首页-桌面大全-体育壁纸-赛季', 'img_url': 'https://www.ivsky.com/bizhi/saiji_t2652/'}
+{'img_name': '啦啦队', 'location': '首页-桌面大全-体育壁纸-啦啦队', 'img_url': 'https://www.ivsky.com/bizhi/laladui_t1621/'}
+{'img_name': '英超', 'location': '首页-桌面大全-体育壁纸-英超', 'img_url': 'https://www.ivsky.com/bizhi/yingchao_t1618/'}
+{'img_name': 'QQ', 'location': '首页-桌面大全-体育壁纸-QQ', 'img_url': 'https://www.ivsky.com/bizhi/qq_t1927/'}
+{'img_name': '勒布朗·詹姆斯', 'location': '首页-桌面大全-体育壁纸-勒布朗·詹姆斯', 'img_url': 'https://www.ivsky.com/bizhi/lebron_raymone_james_t3362/'}
+{'img_name': '北京', 'location': '首页-桌面大全-体育壁纸-北京', 'img_url': 'https://www.ivsky.com/bizhi/beijing_t1925/'}
+{'img_name': '曼联', 'location': '首页-桌面大全-体育壁纸-曼联', 'img_url': 'https://www.ivsky.com/bizhi/manchester_united_t1623/'}
+{'img_name': '足球队', 'location': '首页-桌面大全-体育壁纸-足球队', 'img_url': 'https://www.ivsky.com/bizhi/zuqiudui_t43446/'}
+{'img_name': '曲棍球', 'location': '首页-桌面大全-体育壁纸-曲棍球', 'img_url': 'https://www.ivsky.com/bizhi/qugunqiu_t5499/'}
+{'img_name': '奥运会', 'location': '首页-桌面大全-体育壁纸-奥运会', 'img_url': 'https://www.ivsky.com/bizhi/aoyunhui_t1928/'}
+{'img_name': '巴塞罗那', 'location': '首页-桌面大全-体育壁纸-巴塞罗那', 'img_url': 'https://www.ivsky.com/bizhi/barcelona_t33247/'}
+{'img_name': '赛程', 'location': '首页-桌面大全-体育壁纸-赛程', 'img_url': 'https://www.ivsky.com/bizhi/saicheng_t23202/'}
+{'img_name': '马德里', 'location': '首页-桌面大全-体育壁纸-马德里', 'img_url': 'https://www.ivsky.com/bizhi/madeli_t18279/'}
+{'img_name': '冰球', 'location': '首页-桌面大全-体育壁纸-冰球', 'img_url': 'https://www.ivsky.com/bizhi/bingqiu_t15428/'}
+{'img_name': 'ice hockey', 'location': '首页-桌面大全-体育壁纸-ice hockey', 'img_url': 'https://www.ivsky.com/bizhi/ice_hockey_t15427/'}
+{'img_name': '圣安东尼奥马刺队', 'location': '首页-桌面大全-体育壁纸-圣安东尼奥马刺队', 'img_url': 'https://www.ivsky.com/bizhi/san_antonio_spurs_t2369/'}
+{'img_name': 'San Antonio Spurs', 'location': '首页-桌面大全-体育壁纸-San Antonio Spurs', 'img_url': 'https://www.ivsky.com/bizhi/san_antonio_spurs_t2368/'}
+{'img_name': '阿森纳', 'location': '首页-桌面大全-体育壁纸-阿森纳', 'img_url': 'https://www.ivsky.com/bizhi/arsenal_t1629/'}
+{'img_name': '球衣', 'location': '首页-桌面大全-体育壁纸-球衣', 'img_url': 'https://www.ivsky.com/bizhi/qiuyi_t24240/'}
+{'img_name': '足球俱乐部', 'location': '首页-桌面大全-体育壁纸-足球俱乐部', 'img_url': 'https://www.ivsky.com/bizhi/football_logos_t19106/'}
+{'img_name': '球队', 'location': '首页-桌面大全-体育壁纸-球队', 'img_url': 'https://www.ivsky.com/bizhi/qiudui_t19009/'}
+{'img_name': '方程式赛车', 'location': '首页-桌面大全-体育壁纸-方程式赛车', 'img_url': 'https://www.ivsky.com/bizhi/fangchengshisaiche_t18712/'}
+{'img_name': '恒大', 'location': '首页-桌面大全-体育壁纸-恒大', 'img_url': 'https://www.ivsky.com/bizhi/hengda_t15667/'}
+{'img_name': '金州勇士队', 'location': '首页-桌面大全-体育壁纸-金州勇士队', 'img_url': 'https://www.ivsky.com/bizhi/golden_state_warriors_t4327/'}
+{'img_name': 'Golden State Warriors', 'location': '首页-桌面大全-体育壁纸-Golden State Warriors', 'img_url': 'https://www.ivsky.com/bizhi/golden_state_warriors_t3478/'}
+{'img_name': '车队', 'location': '首页-桌面大全-体育壁纸-车队', 'img_url': 'https://www.ivsky.com/bizhi/chedui_t2676/'}
+{'img_name': '自行车', 'location': '首页-桌面大全-体育壁纸-自行车', 'img_url': 'https://www.ivsky.com/bizhi/zixingche_t2675/'}
+{'img_name': '拉拉队', 'location': '首页-桌面大全-体育壁纸-拉拉队', 'img_url': 'https://www.ivsky.com/bizhi/laladui_t2655/'}
+{'img_name': '高尔夫', 'location': '首页-桌面大全-体育壁纸-高尔夫', 'img_url': 'https://www.ivsky.com/bizhi/golf_t1635/'}
+{'img_name': 'Arsenal', 'location': '首页-桌面大全-体育壁纸-Arsenal', 'img_url': 'https://www.ivsky.com/bizhi/arsenal_t1628/'}
+{'img_name': '奥兰多魔术队', 'location': '首页-桌面大全-体育壁纸-奥兰多魔术队', 'img_url': 'https://www.ivsky.com/bizhi/orlando_magic_t1620/'}
+{'img_name': '克里夫兰骑士队', 'location': '首页-桌面大全-体育壁纸-克里夫兰骑士队', 'img_url': 'https://www.ivsky.com/bizhi/cleveland_cavaliers_t1217/'}
+{'img_name': '巴西世界杯', 'location': '首页-桌面大全-体育壁纸-巴西世界杯', 'img_url': 'https://www.ivsky.com/bizhi/baxishijiebei_t23629/'}
+{'img_name': 'ski', 'location': '首页-桌面大全-体育壁纸-ski', 'img_url': 'https://www.ivsky.com/bizhi/ski_t15432/'}
+{'img_name': '英超足球', 'location': '首页-桌面大全-体育壁纸-英超足球', 'img_url': 'https://www.ivsky.com/bizhi/yingchaozuqiu_t13849/'}

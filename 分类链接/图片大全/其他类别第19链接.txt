@@ -1,0 +1,7 @@
+{'img_name': '军事', 'location': '首页-图片大全-其他类别-军事', 'img_url': 'https://www.ivsky.com/tupian/junshi_t189/'}
+{'img_name': '医学', 'location': '首页-图片大全-其他类别-医学', 'img_url': 'https://www.ivsky.com/tupian/yixue_t4050/'}
+{'img_name': '中药', 'location': '首页-图片大全-其他类别-中药', 'img_url': 'https://www.ivsky.com/tupian/zhongyao_t4822/'}
+{'img_name': '药材', 'location': '首页-图片大全-其他类别-药材', 'img_url': 'https://www.ivsky.com/tupian/yaocai_t5621/'}
+{'img_name': '草药', 'location': '首页-图片大全-其他类别-草药', 'img_url': 'https://www.ivsky.com/tupian/caoyao_t5620/'}
+{'img_name': '药品', 'location': '首页-图片大全-其他类别-药品', 'img_url': 'https://www.ivsky.com/tupian/yaopin_t19638/'}
+{'img_name': '其他', 'location': '首页-图片大全-其他类别-其他', 'img_url': 'https://www.ivsky.com/tupian/qita_t19639/'}

@@ -1,0 +1,39 @@
+{'img_name': '网游', 'location': '首页-桌面大全-游戏壁纸-网游', 'img_url': 'https://www.ivsky.com/bizhi/wangyou_t4060/'}
+{'img_name': '单机游戏', 'location': '首页-桌面大全-游戏壁纸-单机游戏', 'img_url': 'https://www.ivsky.com/bizhi/danjiyouxi_t5520/'}
+{'img_name': '射击游戏', 'location': '首页-桌面大全-游戏壁纸-射击游戏', 'img_url': 'https://www.ivsky.com/bizhi/shejiyouxi_t8911/'}
+{'img_name': '角色扮演', 'location': '首页-桌面大全-游戏壁纸-角色扮演', 'img_url': 'https://www.ivsky.com/bizhi/jiaosebanyan_t12479/'}
+{'img_name': '英雄联盟', 'location': '首页-桌面大全-游戏壁纸-英雄联盟', 'img_url': 'https://www.ivsky.com/bizhi/league_of_legends_t17163/'}
+{'img_name': 'lol', 'location': '首页-桌面大全-游戏壁纸-lol', 'img_url': 'https://www.ivsky.com/bizhi/lol_t19015/'}
+{'img_name': '官方', 'location': '首页-桌面大全-游戏壁纸-官方', 'img_url': 'https://www.ivsky.com/bizhi/guanfang_t4347/'}
+{'img_name': '悬疑', 'location': '首页-桌面大全-游戏壁纸-悬疑', 'img_url': 'https://www.ivsky.com/bizhi/xuanyi_t9454/'}
+{'img_name': '竞技游戏', 'location': '首页-桌面大全-游戏壁纸-竞技游戏', 'img_url': 'https://www.ivsky.com/bizhi/jingjiyouxi_t8914/'}
+{'img_name': '生化危机', 'location': '首页-桌面大全-游戏壁纸-生化危机', 'img_url': 'https://www.ivsky.com/bizhi/shenghuaweiji_t5453/'}
+{'img_name': '刺客信条', 'location': '首页-桌面大全-游戏壁纸-刺客信条', 'img_url': 'https://www.ivsky.com/bizhi/assassin_s_creed_t2904/'}
+{'img_name': '策略', 'location': '首页-桌面大全-游戏壁纸-策略', 'img_url': 'https://www.ivsky.com/bizhi/celue_t14406/'}
+{'img_name': '魔兽世界', 'location': '首页-桌面大全-游戏壁纸-魔兽世界', 'img_url': 'https://www.ivsky.com/bizhi/wow_t230/'}
+{'img_name': 'Resident Evil', 'location': '首页-桌面大全-游戏壁纸-Resident Evil', 'img_url': 'https://www.ivsky.com/bizhi/resident_evil_t5452/'}
+{'img_name': '胡歌', 'location': '首页-桌面大全-游戏壁纸-胡歌', 'img_url': 'https://www.ivsky.com/bizhi/huge_t542/'}
+{'img_name': '射击', 'location': '首页-桌面大全-游戏壁纸-射击', 'img_url': 'https://www.ivsky.com/bizhi/sheji_t15257/'}
+{'img_name': '日本游戏', 'location': '首页-桌面大全-游戏壁纸-日本游戏', 'img_url': 'https://www.ivsky.com/bizhi/ribenyouxi_t5478/'}
+{'img_name': '王者荣耀', 'location': '首页-桌面大全-游戏壁纸-王者荣耀', 'img_url': 'https://www.ivsky.com/bizhi/wangzhe_rongyao_t35229/'}
+{'img_name': 'Online', 'location': '首页-桌面大全-游戏壁纸-Online', 'img_url': 'https://www.ivsky.com/bizhi/online_t1325/'}
+{'img_name': '使命召唤', 'location': '首页-桌面大全-游戏壁纸-使命召唤', 'img_url': 'https://www.ivsky.com/bizhi/call_of_duty_t2896/'}
+{'img_name': '鬼泣', 'location': '首页-桌面大全-游戏壁纸-鬼泣', 'img_url': 'https://www.ivsky.com/bizhi/guiqi_t2361/'}
+{'img_name': '竞技', 'location': '首页-桌面大全-游戏壁纸-竞技', 'img_url': 'https://www.ivsky.com/bizhi/jingji_t14799/'}
+{'img_name': '格斗', 'location': '首页-桌面大全-游戏壁纸-格斗', 'img_url': 'https://www.ivsky.com/bizhi/gedou_t10679/'}
+{'img_name': '战神', 'location': '首页-桌面大全-游戏壁纸-战神', 'img_url': 'https://www.ivsky.com/bizhi/god_of_war_t2923/'}
+{'img_name': 'World of Warcraft', 'location': '首页-桌面大全-游戏壁纸-World of Warcraft', 'img_url': 'https://www.ivsky.com/bizhi/world_of_warcraft_t2901/'}
+{'img_name': 'DOTA', 'location': '首页-桌面大全-游戏壁纸-DOTA', 'img_url': 'https://www.ivsky.com/bizhi/dota_t18982/'}
+{'img_name': '小镇家族', 'location': '首页-桌面大全-游戏壁纸-小镇家族', 'img_url': 'https://www.ivsky.com/bizhi/xiaozhenjiazu_t9467/'}
+{'img_name': 'CLANNAD', 'location': '首页-桌面大全-游戏壁纸-CLANNAD', 'img_url': 'https://www.ivsky.com/bizhi/clannad_t9466/'}
+{'img_name': '上古卷轴', 'location': '首页-桌面大全-游戏壁纸-上古卷轴', 'img_url': 'https://www.ivsky.com/bizhi/shanggujuanzhou_t8978/'}
+{'img_name': 'Call of Duty', 'location': '首页-桌面大全-游戏壁纸-Call of Duty', 'img_url': 'https://www.ivsky.com/bizhi/call_of_duty_t8540/'}
+{'img_name': '巫师', 'location': '首页-桌面大全-游戏壁纸-巫师', 'img_url': 'https://www.ivsky.com/bizhi/wushi_t7481/'}
+{'img_name': '角色', 'location': '首页-桌面大全-游戏壁纸-角色', 'img_url': 'https://www.ivsky.com/bizhi/jiaose_t3726/'}
+{'img_name': '完美世界', 'location': '首页-桌面大全-游戏壁纸-完美世界', 'img_url': 'https://www.ivsky.com/bizhi/wanmei_shijie_t3275/'}
+{'img_name': '谢娜', 'location': '首页-桌面大全-游戏壁纸-谢娜', 'img_url': 'https://www.ivsky.com/bizhi/xiena_t541/'}
+{'img_name': '女神异闻录', 'location': '首页-桌面大全-游戏壁纸-女神异闻录', 'img_url': 'https://www.ivsky.com/bizhi/nvshenyiwenlu_t11464/'}
+{'img_name': '策略游戏', 'location': '首页-桌面大全-游戏壁纸-策略游戏', 'img_url': 'https://www.ivsky.com/bizhi/celueyouxi_t9911/'}
+{'img_name': '战争机器', 'location': '首页-桌面大全-游戏壁纸-战争机器', 'img_url': 'https://www.ivsky.com/bizhi/gears_of_war_t9376/'}
+{'img_name': '愤怒的小鸟', 'location': '首页-桌面大全-游戏壁纸-愤怒的小鸟', 'img_url': 'https://www.ivsky.com/bizhi/fennu_de_xiaoniao_t8801/'}
+{'img_name': 'Devil May Cry', 'location': '首页-桌面大全-游戏壁纸-Devil May Cry', 'img_url': 'https://www.ivsky.com/bizhi/devil_may_cry_t2360/'}

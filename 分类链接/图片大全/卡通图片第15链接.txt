@@ -1,0 +1,12 @@
+{'img_name': '动画', 'location': '首页-图片大全-卡通图片-动画', 'img_url': 'https://www.ivsky.com/tupian/donghua_t3858/'}
+{'img_name': '手绘', 'location': '首页-图片大全-卡通图片-手绘', 'img_url': 'https://www.ivsky.com/tupian/shouhui_t2331/'}
+{'img_name': '童话', 'location': '首页-图片大全-卡通图片-童话', 'img_url': 'https://www.ivsky.com/tupian/tonghua_t8606/'}
+{'img_name': '动漫', 'location': '首页-图片大全-卡通图片-动漫', 'img_url': 'https://www.ivsky.com/tupian/dongman_t53/'}
+{'img_name': '星座', 'location': '首页-图片大全-卡通图片-星座', 'img_url': 'https://www.ivsky.com/tupian/xingzuo_t3123/'}
+{'img_name': '卡通背景', 'location': '首页-图片大全-卡通图片-卡通背景', 'img_url': 'https://www.ivsky.com/tupian/katongbeijing_t1590/'}
+{'img_name': '卡通人物', 'location': '首页-图片大全-卡通图片-卡通人物', 'img_url': 'https://www.ivsky.com/tupian/katongrenwu_t7870/'}
+{'img_name': '卡通美食', 'location': '首页-图片大全-卡通图片-卡通美食', 'img_url': 'https://www.ivsky.com/tupian/katongmeishi_t19605/'}
+{'img_name': '卡通场景', 'location': '首页-图片大全-卡通图片-卡通场景', 'img_url': 'https://www.ivsky.com/tupian/katongchangjing_t19606/'}
+{'img_name': '人偶', 'location': '首页-图片大全-卡通图片-人偶', 'img_url': 'https://www.ivsky.com/tupian/renou_t1349/'}
+{'img_name': '卡通动物', 'location': '首页-图片大全-卡通图片-卡通动物', 'img_url': 'https://www.ivsky.com/tupian/katongdongwu_t7828/'}
+{'img_name': '其他卡通', 'location': '首页-图片大全-卡通图片-其他卡通', 'img_url': 'https://www.ivsky.com/tupian/qitakatong_t19607/'}

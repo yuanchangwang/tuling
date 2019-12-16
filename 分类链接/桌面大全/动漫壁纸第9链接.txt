@@ -1,0 +1,39 @@
+{'img_name': '日本动漫', 'location': '首页-桌面大全-动漫壁纸-日本动漫', 'img_url': 'https://www.ivsky.com/bizhi/riben_dongman_t4106/'}
+{'img_name': '漫画', 'location': '首页-桌面大全-动漫壁纸-漫画', 'img_url': 'https://www.ivsky.com/bizhi/manhua_t379/'}
+{'img_name': '火影忍者', 'location': '首页-桌面大全-动漫壁纸-火影忍者', 'img_url': 'https://www.ivsky.com/bizhi/naruto_t563/'}
+{'img_name': '少女', 'location': '首页-桌面大全-动漫壁纸-少女', 'img_url': 'https://www.ivsky.com/bizhi/shaonv_t4827/'}
+{'img_name': '蝙蝠侠', 'location': '首页-桌面大全-动漫壁纸-蝙蝠侠', 'img_url': 'https://www.ivsky.com/bizhi/bianfuxia_t2864/'}
+{'img_name': '轻小说', 'location': '首页-桌面大全-动漫壁纸-轻小说', 'img_url': 'https://www.ivsky.com/bizhi/qingxiaoshuo_t6305/'}
+{'img_name': '家庭教师', 'location': '首页-桌面大全-动漫壁纸-家庭教师', 'img_url': 'https://www.ivsky.com/bizhi/katekyo_hitman_reborn_t9368/'}
+{'img_name': '战争', 'location': '首页-桌面大全-动漫壁纸-战争', 'img_url': 'https://www.ivsky.com/bizhi/zhanzheng_t3217/'}
+{'img_name': '高达', 'location': '首页-桌面大全-动漫壁纸-高达', 'img_url': 'https://www.ivsky.com/bizhi/gaoda_t955/'}
+{'img_name': '叛逆的鲁鲁修', 'location': '首页-桌面大全-动漫壁纸-叛逆的鲁鲁修', 'img_url': 'https://www.ivsky.com/bizhi/code_geass_t1300/'}
+{'img_name': 'Code Geass', 'location': '首页-桌面大全-动漫壁纸-Code Geass', 'img_url': 'https://www.ivsky.com/bizhi/code_geass_t394/'}
+{'img_name': '漫画家', 'location': '首页-桌面大全-动漫壁纸-漫画家', 'img_url': 'https://www.ivsky.com/bizhi/manhuajia_t6197/'}
+{'img_name': '海贼王', 'location': '首页-桌面大全-动漫壁纸-海贼王', 'img_url': 'https://www.ivsky.com/bizhi/one_piece_t571/'}
+{'img_name': '动画片', 'location': '首页-桌面大全-动漫壁纸-动画片', 'img_url': 'https://www.ivsky.com/bizhi/donghuapian_t7281/'}
+{'img_name': 'Fate stay night', 'location': '首页-桌面大全-动漫壁纸-Fate stay night', 'img_url': 'https://www.ivsky.com/bizhi/fate_stay_night_t834/'}
+{'img_name': '凉宫春日的忧郁', 'location': '首页-桌面大全-动漫壁纸-凉宫春日的忧郁', 'img_url': 'https://www.ivsky.com/bizhi/lianggongchunri_de_youyu_t7084/'}
+{'img_name': '死神', 'location': '首页-桌面大全-动漫壁纸-死神', 'img_url': 'https://www.ivsky.com/bizhi/bleach_t1566/'}
+{'img_name': '魔法少女小圆', 'location': '首页-桌面大全-动漫壁纸-魔法少女小圆', 'img_url': 'https://www.ivsky.com/bizhi/puella_magi_madoka_magica_t13511/'}
+{'img_name': '命运待夜临', 'location': '首页-桌面大全-动漫壁纸-命运待夜临', 'img_url': 'https://www.ivsky.com/bizhi/mingyundaiyelin_t13078/'}
+{'img_name': '东方Project', 'location': '首页-桌面大全-动漫壁纸-东方Project', 'img_url': 'https://www.ivsky.com/bizhi/dongfangproject_t11791/'}
+{'img_name': '名侦探柯南', 'location': '首页-桌面大全-动漫壁纸-名侦探柯南', 'img_url': 'https://www.ivsky.com/bizhi/detective_conan_t568/'}
+{'img_name': 'NARUTO', 'location': '首页-桌面大全-动漫壁纸-NARUTO', 'img_url': 'https://www.ivsky.com/bizhi/naruto_t562/'}
+{'img_name': '最终幻想', 'location': '首页-桌面大全-动漫壁纸-最终幻想', 'img_url': 'https://www.ivsky.com/bizhi/final_fantas_t194/'}
+{'img_name': '钢铁侠', 'location': '首页-桌面大全-动漫壁纸-钢铁侠', 'img_url': 'https://www.ivsky.com/bizhi/gangtiexia_t12170/'}
+{'img_name': '星球大战', 'location': '首页-桌面大全-动漫壁纸-星球大战', 'img_url': 'https://www.ivsky.com/bizhi/star_wars_t2692/'}
+{'img_name': 'BLEACH', 'location': '首页-桌面大全-动漫壁纸-BLEACH', 'img_url': 'https://www.ivsky.com/bizhi/bleach_t1565/'}
+{'img_name': 'ONE PIECE', 'location': '首页-桌面大全-动漫壁纸-ONE PIECE', 'img_url': 'https://www.ivsky.com/bizhi/one_piece_t570/'}
+{'img_name': '蜘蛛侠', 'location': '首页-桌面大全-动漫壁纸-蜘蛛侠', 'img_url': 'https://www.ivsky.com/bizhi/spider_man_t408/'}
+{'img_name': '刀剑神域', 'location': '首页-桌面大全-动漫壁纸-刀剑神域', 'img_url': 'https://www.ivsky.com/bizhi/sword_art_online_t15327/'}
+{'img_name': '魔法少女奈叶', 'location': '首页-桌面大全-动漫壁纸-魔法少女奈叶', 'img_url': 'https://www.ivsky.com/bizhi/magical_girl_lyrical_nanoha_t13445/'}
+{'img_name': 'Magical Girl Lyrical Nanoha', 'location': '首页-桌面大全-动漫壁纸-Magical Girl Lyrical Nanoha', 'img_url': 'https://www.ivsky.com/bizhi/magical_girl_lyrical_nanoha_t13444/'}
+{'img_name': '熊猫', 'location': '首页-桌面大全-动漫壁纸-熊猫', 'img_url': 'https://www.ivsky.com/bizhi/xiongmao_t8072/'}
+{'img_name': '初音', 'location': '首页-桌面大全-动漫壁纸-初音', 'img_url': 'https://www.ivsky.com/bizhi/chuyin_t564/'}
+{'img_name': '黑子的篮球', 'location': '首页-桌面大全-动漫壁纸-黑子的篮球', 'img_url': 'https://www.ivsky.com/bizhi/heizidelanqiu_t15871/'}
+{'img_name': 'Puella Magi Madoka Magica', 'location': '首页-桌面大全-动漫壁纸-Puella Magi Madoka Magica', 'img_url': 'https://www.ivsky.com/bizhi/puella_magi_madoka_magica_t13510/'}
+{'img_name': 'Magister Negi Magi', 'location': '首页-桌面大全-动漫壁纸-Magister Negi Magi', 'img_url': 'https://www.ivsky.com/bizhi/magister_negi_magi_t13299/'}
+{'img_name': 'Suzumiya Haruhi no Yuuutsu', 'location': '首页-桌面大全-动漫壁纸-Suzumiya Haruhi no Yuuutsu', 'img_url': 'https://www.ivsky.com/bizhi/suzumiya_haruhi_no_yuuutsu_t10235/'}
+{'img_name': '强袭魔女', 'location': '首页-桌面大全-动漫壁纸-强袭魔女', 'img_url': 'https://www.ivsky.com/bizhi/qiangximonv_t9763/'}
+{'img_name': 'STRIKE WITCHES', 'location': '首页-桌面大全-动漫壁纸-STRIKE WITCHES', 'img_url': 'https://www.ivsky.com/bizhi/strike_witches_t9762/'}

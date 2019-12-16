@@ -1,0 +1,9 @@
+{'img_name': '品牌广告', 'location': '首页-图片大全-广告设计-品牌广告', 'img_url': 'https://www.ivsky.com/tupian/pinpaiguanggao_t19599/'}
+{'img_name': '酒类广告', 'location': '首页-图片大全-广告设计-酒类广告', 'img_url': 'https://www.ivsky.com/tupian/jiuleiguanggao_t5037/'}
+{'img_name': '数码产品', 'location': '首页-图片大全-广告设计-数码产品', 'img_url': 'https://www.ivsky.com/tupian/shuma_chanpin_t4544/'}
+{'img_name': '电子产品', 'location': '首页-图片大全-广告设计-电子产品', 'img_url': 'https://www.ivsky.com/tupian/dianzichanpin_t2486/'}
+{'img_name': '宣传册', 'location': '首页-图片大全-广告设计-宣传册', 'img_url': 'https://www.ivsky.com/tupian/xuanchuance_t19207/'}
+{'img_name': '海报设计', 'location': '首页-图片大全-广告设计-海报设计', 'img_url': 'https://www.ivsky.com/tupian/haibaosheji_t19600/'}
+{'img_name': '画册设计', 'location': '首页-图片大全-广告设计-画册设计', 'img_url': 'https://www.ivsky.com/tupian/huacesheji_t19212/'}
+{'img_name': '包装设计', 'location': '首页-图片大全-广告设计-包装设计', 'img_url': 'https://www.ivsky.com/tupian/baozhuangsheji_t19602/'}
+{'img_name': '其他广告设计', 'location': '首页-图片大全-广告设计-其他广告设计', 'img_url': 'https://www.ivsky.com/tupian/qitaguanggaosheji_t19603/'}
