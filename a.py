@@ -181,15 +181,13 @@ def Parsing_page(lxml, location,name):
     # 'img_url': 'https://www.ivsky.com/tupian/qita'}
 
 
-txt_name = 0
+
 while True:
     txt_list = os.listdir('./分类链接/桌面大全/')
 
     for index,txt in enumerate(txt_list): print('%s:%s'%(index,txt))
-    # print(len(txt_list))
-    # for j in range(len(txt_list)):
-    #
-    #     txt_name = input(j)
+    txt_name = input('请输入数字序号并按回车确定：')
+    print('输入完成，请等待')
 
 
     name = txt_list[int(txt_name)].split('第')[0]
@@ -230,5 +228,5 @@ while True:
                 # time.sleep(1)
                 data += 1
 
-    txt_name += 1
+
 
