@@ -139,7 +139,7 @@ def home_page(url):
     try:
         res = requests.get(url, headers=header,timeout=5)
         if res.status_code == 200:
-            print(res.status_code)
+            print(res.status_code,end=" ")
             return res
         if res.status_code == 404:
             return 404
@@ -181,6 +181,7 @@ def Parsing_page(lxml, location,name):
     # 'img_url': 'https://www.ivsky.com/tupian/qita'}
 
 
+txt_name = 0
 while True:
     txt_list = os.listdir('./分类链接/桌面大全/')
 
@@ -190,10 +191,10 @@ while True:
     #
     #     txt_name = input(j)
 
-    txt_name = 0
+
     name = txt_list[int(txt_name)].split('第')[0]
-    print(name)
-    print('输入完成，请等待')
+    print(name,end=" ")
+    # print('输入完成，请等待')
     urls = []
     ind = 1
 
@@ -223,7 +224,7 @@ while True:
                     lxml = BeautifulSoup(res.text, 'lxml')
                     Parsing_page(lxml,location,name)
                     # Small_taxonomy(lxml, location, ind, img_na, name=name)
-                    print('请求成功+++++++++++++++++++++++++++++++++++++')
+                    print('请求成功')
                 #
                 # ind += 1
                 # time.sleep(1)
